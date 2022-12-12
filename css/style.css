@@ -30,13 +30,13 @@ div#beach {
 
 div#video {
   position: absolute;
-  right: 243px;
-  bottom: 200px;
+  right: 543px;
+  bottom: 500px;
 }
 
 div#video iframe {
-  width: 255px;
-  height: 155px;
+  width: 555px;
+  height: 455px;
 }
 
 #people {
@@ -443,13 +443,13 @@ div#sea {
   }
 
   div#video {
-    right: 290px;
-    bottom: 235px;
+    right: 590px;
+    bottom: 535px;
   }
 
   div#video iframe {
-    width: 295px;
-    height: 185px;
+    width: 595px;
+    height: 485px;
   }
 
   .moon {
