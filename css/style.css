@@ -30,12 +30,12 @@ div#beach {
 
 div#video {
   position: absolute;
-  right: 543px;
+  right: 343px;
   bottom: 500px;
 }
 
 div#video iframe {
-  width: 555px;
+  width: 455px;
   height: 455px;
 }
 
@@ -443,12 +443,12 @@ div#sea {
   }
 
   div#video {
-    right: 590px;
+    right: 490px;
     bottom: 535px;
   }
 
   div#video iframe {
-    width: 595px;
+    width: 495px;
     height: 485px;
   }
 
